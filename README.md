@@ -39,6 +39,8 @@ Certainly! Here's a **step-by-step procedure** to create a **Resource Group** an
    - **Authentication Type**: Choose **Password**.
      - **Username**: Enter a username (e.g., `adminuser`).
      - **Password**: Enter a strong password and confirm it (e.g., `YourStrongPassword123!`).
+     - --------------- USERNAME : AdminUser ---------------------
+    ----------- PASSWORD : Ct@#9912088878 -----------------
    - **Public Inbound Ports**: Choose **Allow selected ports** and select **RDP (3389)** for Remote Desktop access.
 
 4. **Disk Options**  
